@@ -35,12 +35,6 @@
   <sub>Building the future, byte by byte.</sub>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=eRQQEiwk1rQ">
-    <img src="assets/CapaSeiko.png" width="100%" alt="Clique para assistir" />
-  </a>
-</p>   
-
 ---
 
 ### 📊 Statistics
