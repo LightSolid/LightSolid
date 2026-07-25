@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Olá, eu sou o <i>light Solid☀</i> </h1>
+  <h1 align="center">My Name is <i>light Solid☀</i> </h1>
 </p>
 
 <p align="center">
@@ -8,16 +8,17 @@
 </p>
 
 <p align="center">
-  <em>Explorando os limites da performance e segurança de memória.</em>
+  <em></em>
 </p>
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About me:
 
-- 🔭 Atualmente focado em desenvolvimento de sistemas de alta performance.
-- 🌱 Estudando **C++** para controle total de hardware e **Rust** para segurança moderna.
-- ⚡ Interessado em: Game Engines, Sistemas Embarcados e Compiladores.
+- 💡 𝙱𝚘𝚛𝚗 𝚒𝚗 𝚝𝚑𝚎 𝙻𝚒𝚐𝚑𝚝.
+- 💎 𝚂𝚘𝚕𝚒𝚍 𝚊𝚜 𝚊 𝚂𝚝𝚘𝚗𝚎.
+- 🛡️ 𝚄𝚗𝚋𝚛𝚎𝚊𝚔𝚊𝚋𝚕𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚊𝚛𝚔𝚗𝚎𝚜𝚜.
+
 
 
 ---
@@ -31,12 +32,13 @@
 </p>
 
 <p align="center">
-  <sub>Construindo o futuro, byte por byte.</sub>
+  <sub>Building the future, byte by byte.</sub>
+  <img src="seiko.mp4" height="100%" alt="Seiko Gif" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LightSolid&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" />
