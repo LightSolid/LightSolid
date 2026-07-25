@@ -33,9 +33,13 @@
 
 <p align="center">
   <sub>Building the future, byte by byte.</sub>
-  <img src="Ikki_Niko_s_Meta_Vision_Blue_Lock_Manga_Animation (1).mp4
-" height="100%" alt="Niko Gif" />
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eRQQEiwk1rQ">
+    <img src="assets/CapaSeiko.png" width="100%" alt="Clique para assistir" />
+  </a>
+</p>   
 
 ---
 
