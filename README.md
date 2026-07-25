@@ -33,7 +33,8 @@
 
 <p align="center">
   <sub>Building the future, byte by byte.</sub>
-  <img src="seiko.mp4" height="100%" alt="Seiko Gif" />
+  <img src="Ikki_Niko_s_Meta_Vision_Blue_Lock_Manga_Animation (1).mp4
+" height="100%" alt="Niko Gif" />
 </p>
 
 ---
