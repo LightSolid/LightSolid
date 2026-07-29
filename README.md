@@ -26,7 +26,6 @@
 ### 🛠️ Stack Principal
 
 <p align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CPP.svg" height="60" alt="C++" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Rust.svg" height="60" alt="Rust" style="margin: 10px;" />
 </p>
@@ -36,16 +35,13 @@
 </p>
 
 ---
-
-### 📊 Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LightSolid&show_icons=true&theme=radical&hide=issues,contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightSolid&layout=compact&theme=radical" alt="Top Langs" />
+<h1 align="center"> Light_Solid </h1>
+</p>
+<p align="center">
+ <img src="seiko.gif" width="100%" alt="Seiko" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LightSolid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>   
+
+
